@@ -1,6 +1,6 @@
 options(shiny.maxRequestSize=100*1024^2)
 options(shiny.sanitize.errors=FALSE)
-library('xmsPANDA')
+#library('xmsPANDA')
 #library('lsmeans')
 #library('car')
 #library('KEGGREST')
